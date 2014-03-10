@@ -1,0 +1,1 @@
+This algorithm identifies languages that text is written in using a learning algorithm (Baye's Classifier).
